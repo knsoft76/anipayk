@@ -46,6 +46,13 @@ Table of Content:
 /*===== color =====*/
 /*====================================================*/
 /*====================================================*/
+.namad_section{
+  display:flex;
+  flex-direction: row;
+}
+ h5 a{
+   color: white;
+ }
 a {
   text-decoration: none;
 }
