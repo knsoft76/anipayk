@@ -60,7 +60,11 @@ a {
   direction: rtl;
   text-align: right;
 }
-
+ 
+.partner_logo .logo_item {
+  width: calc(100% / 4);
+  text-align: center;
+}
 a:hover, a:focus {
   text-decoration: none;
 }
