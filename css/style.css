@@ -61,6 +61,42 @@ a {
   text-align: right;
 }
  
+
+
+.btn_six {
+  background: #17c7bd;
+  font-size: 15px;
+  font-family: "IRANSans";
+  border: 1px solid #17c7bd;
+  padding: 13px 35px;
+  color: #fff;
+  -webkit-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+  display: inline-block;
+   margin-left:516px;
+}
+.slider_btn {
+  font: 500 14px/20px;
+  color: #00aff0;
+  border-radius: 45px;
+  padding: 15px 35px;
+  background: #fff;
+}
+a, .btn, button {
+  text-decoration: none;
+  outline: none;
+  font-family: "IRANSans";
+}
+a {
+  text-decoration: none;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
 .partner_logo .logo_item {
   width: calc(100% / 4);
   text-align: center;
@@ -8834,6 +8870,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   box-shadow: none;
   background: #fff;
   margin-right: 25px;
+  font-family: "IRANSans";
 }
 
 .action_area_three .action_content .white_btn:hover {
